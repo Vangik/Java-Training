@@ -1,9 +1,9 @@
-package com.company;
+package src.com.company;
 
-public class Lesson3 extends Lesson2 {
+public class Lesson3 extends LessonString {
     public static int n;
     Lesson3(){
-        System.out.println(tar);
+        System.out.println(tar+" hello");
         }
 
     public static void Output(){
